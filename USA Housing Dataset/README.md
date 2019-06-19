@@ -1,0 +1,1 @@
+This folder contains Regression Analysis on USA Housing Prices Dataset, that comes under the Boston Dataset from ScikitLearn. I have performed Regression model and for visualization I have used Seaborn.
